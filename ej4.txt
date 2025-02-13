@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 comentario en archivo de testing
+=======
+aaaaaaaaa
+>>>>>>> testig
